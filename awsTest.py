@@ -25,8 +25,8 @@ if _DEBUG_ == 'PC':
 else:
     #for Raspberry Pi
     rootCAPath = "/cert/AmazonRootCA1.pem"
-    certificatePath = "/cert/a1c08e42e1-certificate.pem.crt"
-    privateKeyPath = "/cert/a1c08e42e1-private.pem.key"
+    certificatePath = "/cert/xxxxxxxxx-certificate.pem.crt"
+    privateKeyPath = "/cert/xxxxxxxxx-private.pem.key"
 
 useWebsocket = False
 clientId = "test"
